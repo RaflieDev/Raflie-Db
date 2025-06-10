@@ -1,22 +1,9 @@
 {
-  "6285123965378": {
-    "name": "raflie",
-    "password": "10"
-  },
-  "6285754661077": {
-    "name": "fli",
-    "password": "suuu"
-  },
-  "6283150038509": {
-    "name": "matzz",
-    "password": "jmk"
-  },
-  "6285718581788": {
-    "name": "adin",
-    "password": "dinzsigma"
-  },
-  "6285166578237": {
-    "name": "rizzsigma",
-    "password": "rizzaja"
-  }
+  "dbnya": [
+    {
+      "username": "raflie",
+      "password": "tes",
+      "nomor": "6285754661077"
+    }
+  ]
 }
